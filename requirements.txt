@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+gdown
+torch
+torchvision
+numpy
+gradio
